@@ -1,0 +1,11 @@
+// src/scss/_theme.scss
+
+// Define dark theme colors
+$bg-color: #333;
+$text-color: #f8f9fa;
+
+// Override Bootstrap variables
+$body-bg: $bg-color;
+$body-color: $text-color;
+
+// Add more customizations here

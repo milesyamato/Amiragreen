@@ -1,0 +1,13 @@
+// src/scss/_dark-theme.scss
+
+$enable-dark-mode: true;
+
+// Colors
+$bg-color: #343a40;
+$primary-color: #0d6efd;
+$text-color: #f8f9fa;
+
+// Override Bootstrap variables
+$background: $bg-color;
+$primary: $primary-color;
+$body-color: $text-color;
